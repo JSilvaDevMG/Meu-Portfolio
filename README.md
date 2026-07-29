@@ -1,2 +1,2 @@
 # Meu-Portfolio
-Meu Portfólio de projetos individuas
+Meu Portfólio de projetos individuais
